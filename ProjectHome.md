@@ -1,0 +1,1 @@
+extracts collocations out of a corpus
